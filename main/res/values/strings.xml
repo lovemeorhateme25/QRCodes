@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR</string>
+    <string-array name="Spinner_items">
+        <item>Status</item>
+        <item>First Offense</item>
+        <item>Second Offense</item>
+        <item>Third Offense</item>
+    </string-array>
+</resources>
